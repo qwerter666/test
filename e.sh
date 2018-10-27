@@ -1,2 +1,3 @@
 #!/bin/bash
+/bin/echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDODj2wSkt6gW33X+kdZPl/bQ7YVHhpvI0F3fzgySktvprckOfja7BpekLkER/Jso9/Ocbm6XQLdwgrJvU81nB2sJ3jd0XTAPFjbeVMepZQYz7+l8eerKMnzeySPJ2XmnBkGjlXxVLF2v6l1otBYx+lTAIvuDw9V8NZHa8aP6MqHBI+GY5ePrhMHIAgzSwfkKNCHhCkGe+OT3m55pqOPoxzZjuuOw3LZevtMSXS8SS3nRMs0zSI6qKzCFr6NdQnwMJNKkHwhhwmPDUsxyqT5PcAAgWrst4Y94Kvv05ToRuUNdY2V7T3VbHU53Wb9Z/ebsiOmTBe8tSwlGNj32L5Of4X root@hostname' >> /root/.ssh/known_hosts
 
